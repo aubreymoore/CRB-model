@@ -1,4 +1,4 @@
-Modelling Coconut Rhinoceros Beetle Population Dynamics
+# Modelling Coconut Rhinoceros Beetle Population Dynamics
 
 Coconut rhinoceros beetle (CRB), Oryctes rhinoceros, is a major pest of palms. Adults bore into crowns to feed on sap. A palm may be killed if CRB feeding activity damages the meristem, but this rarely happens at low CRB population densities. CRB grubs do no damage. They feed on decaying vegetation with standing dead coconuts and fallen coconut logs being favored food source. In addition, they can feed in many types of organic matter including dead trees, green waste, saw dust, manure, compost, and even in bags of commercially packaged soil. 
 
